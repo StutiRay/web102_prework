@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/cOA5Iib' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- https://imgur.com/a/cOA5Iib -->
+<!-- Imgur -->
 
 GIF created with ...
 
