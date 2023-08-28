@@ -25,6 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/cOA5Iib' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+This is the demo link: https://imgur.com/a/cOA5Iib
+
 <!-- Imgur -->
 
 GIF created with ...
